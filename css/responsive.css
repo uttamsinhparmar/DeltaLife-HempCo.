@@ -1,0 +1,656 @@
+@media (min-width: 1200px) {
+
+    /* Header section css */
+    .header .container {
+        max-width: 1190px;
+    }
+    .container {
+        max-width: 1100px;
+    }
+
+}
+
+
+@media (min-width: 1400px) {
+
+    /* Header section css */
+    .header .container {
+        max-width: 1190px;
+    }
+    .container {
+        max-width: 1140px;
+    }
+
+}
+
+
+@media only screen and (max-width: 1400px){
+
+    /* hiro section css */
+    .hiro {
+        padding: 110px 0;
+    }
+    .hiro .hiro-img {
+        width: 667px;
+    }
+
+}
+
+
+@media only screen and (max-width: 1200px){
+
+    /* Header section css */
+    .header .navbar .nav-item {
+        padding: 0 1px;
+    }
+    .header .navbar>.container {
+        padding: 0;
+    }
+    
+    /* hiro section css */
+    .hiro {
+        padding: 80px 0;
+    }
+    .hiro .hiro-img {
+        width: 575px;
+    }
+
+    /* Featured Items CSS */
+    .featured-items {
+        padding: 110px 0;
+    }
+    .featured-items .featured-items-tabs .nav-tabs .nav-link {
+        font-size: 16px;
+        margin-right: 45px;
+    }
+    .featured-items .header-sec .btn-lightsuccess {
+        padding: 15px 35px;
+    }
+
+    /* We are leaders CSS */
+    .we-are-leaders {
+        padding: 110px 0;
+    }
+    .we-are-leaders .we-are-leaders-contant h2 {
+        font-size: 43px;
+        line-height: 55px;
+    }
+    .we-are-leaders .we-are-leaders-contant p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    /* New Items CSS */
+    .newItems {
+        padding: 110px 0;
+    }
+    
+    /* Search and browse CSS */
+    .search-and-browse {
+        padding: 110px 0;
+    }
+    .search-and-browse .search-and-browse-wrap h4 {
+        font-size: 32px;
+        max-width: 530px;
+        margin: 0 auto 40px;
+    }
+    .search-and-browse .search {
+        max-width: 670px;
+        margin: 0 auto 40px;
+    }
+    .search-and-browse .search-list .btn-light {
+        margin: 0 5px;
+        padding: 14px 18px;
+    }
+
+    /* Delta Life's CSS */
+    .delta-life .delta-life-contant h2 {
+        font-size: 34px;
+        margin-bottom: 30px;
+    }
+    .delta-life .delta-life-contant p {
+        font-size: 18px;
+        line-height: 30px;
+        margin-bottom: 30px;
+    }
+    .delta-life .delta-life-contant .btn-lightsuccess {
+        padding: 16px 37px;
+    }
+
+    /* Youtube Videos CSS */
+    .youtube-videos {
+        padding: 110px 0;
+    }
+    .modal.youtube-video .close-video {
+        font-size: 20px;
+        height: 45px;
+        width: 45px;
+    }
+
+    /* Recent Google Reviews CSS */
+    .recent-google-reviews {
+        padding: 100px 0;
+    }
+    .recent-google-reviews .google-review {
+        padding: 30px;
+    }
+
+}
+
+
+@media only screen and (max-width: 992px) {
+
+    /* Comman CSS */
+    .header-sec h4 {
+        font-size: 32px;
+        line-height: 55px;
+    }
+
+    /* Header section css */
+    .header .navbar .navbar-collapse {
+        width: 100%;
+        background-color: #fff;
+        text-align: center;
+        padding: 15px 0;
+        position: absolute;
+        top: 100%;
+        left: 0px;
+        z-index: 1;
+    }
+    .header .navbar>.container {
+        justify-content: end;
+    }
+    .header .navbar .navbar-toggler {
+        margin-top: -125px;
+    }
+    .header .navbar {
+        padding: 0;
+    }
+    .header .navbar .nav-item .nav-link {
+        padding: 10px 0;
+    }
+    .navbar .navbar-nav .nav-item .btn-lightsuccess {
+        padding: 10px 35px;
+        margin-top: 10px;
+    }
+
+    /* hiro section css */
+    .hiro .hiro-contant {
+        text-align: center;
+    }
+
+    /* Featured Items CSS */
+    .featured-items .header-sec .btn-lightsuccess {
+        padding: 14px 28px;
+        font-size: 16px;
+    }
+    .featured-items .featured-items-tabs .nav-tabs .nav-link {
+        font-size: 15px;
+        margin-right: 30px;
+    }
+
+    /* We are leaders CSS */
+    .we-are-leaders img {
+        width: 100%;
+    }
+    .we-are-leaders .we-are-leaders-contant h2 {
+        font-size: 34px;
+        line-height: 46px;
+        margin-bottom: 16px;
+    }
+    .we-are-leaders .we-are-leaders-contant p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    /* Search and browse CSS */
+    .search-and-browse .search {
+        max-width: 550px;
+        margin: 0 auto 30px;
+    }
+    .search-and-browse .search-and-browse-wrap h4 {
+        font-size: 28px;
+        max-width: 510px;
+        margin: 0 auto 30px;
+    }
+    .search-and-browse .search .search-fild {
+        padding: 24px 165px 24px 24px;
+    }
+    .search-and-browse .search .btn {
+        font-size: 16px;
+        padding: 15px 35px;
+    }
+    .search-and-browse .search-list .btn-light {
+        margin: 0 3px;
+        padding: 12px 14px;
+    }
+
+    /* Delta Life's CSS */
+    .delta-life {
+        padding: 70px 0;
+    }
+    .delta-life img {
+        width: 100%;
+    }
+    .delta-life .delta-life-contant h2 {
+        font-size: 27px;
+        line-height: 40px;
+        margin-bottom: 20px;
+    }
+    .delta-life .delta-life-contant p {
+        font-size: 16px;
+        line-height: 28px;
+        margin-bottom: 20px;
+    }
+    .delta-life .delta-life-contant .btn-lightsuccess {
+        font-size: 15px;
+        padding: 12px 30px;
+    }
+
+    /* Recent Google Reviews CSS */
+    .recent-google-reviews .google-review {
+        padding: 15px 14px;
+    }
+    .recent-google-reviews .google-review p {
+        font-size: 12px;
+        line-height: 20px;
+        margin-bottom: 12px;
+    }
+    .recent-google-reviews .google-review .person .person-img {
+        width: 33px;
+        margin-right: 5px;
+    }
+    .recent-google-reviews .google-review .person .person-details h6 {
+        font-size: 13px;
+        line-height: 16px;
+        margin-bottom: 0;
+    }
+    .recent-google-reviews .google-review .person .google-icon {
+        width: 30px;
+    }
+    .recent-google-reviews .google-review .person .person-details .reviews img {
+        width: 15px;
+    }
+
+    /* Footer CSS */
+    .footer .footer-contant {
+        text-align: center;
+        margin-bottom: 60px;
+    }
+    .footer .footer-contant img {
+        width: 150px;
+    }
+    .footer .footer-contant p {
+        max-width: unset;
+        margin: 0;
+    }
+    .footer .footer-menu {
+        text-align: center;
+    }
+    .footer .subscribe-form-wrap {
+        margin-top: 30px;
+    }
+
+}
+
+
+@media only screen and (max-width: 767px) {
+
+    /* Header section css */
+    .header .logo-section {
+        padding: 10px 0;
+    }
+    .header .navbar .navbar-toggler {
+        margin-top: -95px;
+        margin-right: 12px;
+    }
+    .header .logo-section img {
+        width: 170px;
+    }
+
+    /* hiro section css */
+    .hiro .hiro-contant h2 {
+        margin-bottom: 40px;
+    }
+    .hiro .hiro-contant p {
+        font-size: 18px;
+    }
+
+    /* Featured Items CSS */
+    .featured-items .featured-items-tabs .nav-tabs .nav-link {
+        margin-right: 20px;
+    }
+    .featured-items .featured-items-tabs .nav-tabs .nav-item:last-child .nav-link {
+        margin-right: 0;
+    }
+
+    /* product */
+    .product-card .product-details {
+        padding: 0 25px 30px;
+    }
+    .product-card .product-details .product-category {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+    .product-card .product-details .product-title {
+        font-size: 16px;
+        line-height: 24px;
+        margin-bottom: 10px;
+    }
+    .product-card .product-details .price-box {
+        font-size: 22px;
+    }
+    .product-card .product-details .price-box span {
+        font-size: 17px;
+        margin-left: 3px;
+    }
+
+    /* We are leaders CSS */
+    .we-are-leaders {
+        padding: 80px 0;
+    }
+    .we-are-leaders .we-are-leaders-contant {
+        margin-top: 40px;
+    }
+    .we-are-leaders .we-are-leaders-contant h2 {
+        font-size: 32px;
+        max-width: unset;
+    }
+    .we-are-leaders .we-are-leaders-contant p {
+        font-size: 14px;
+        line-height: 22px;
+        margin: 0;
+    }
+
+    /* New Items CSS */
+    .newItems {
+        padding: 80px 0;
+    }
+
+    /* Search and browse CSS */
+    .search-and-browse {
+        padding: 80px 0;
+    }
+
+    /* Search and browse CSS */
+    .search-and-browse .search-and-browse-wrap h4 {
+        font-size: 25px;
+        line-height: 35px;
+        max-width: 440px;
+        margin: 0 auto 20px;
+    }
+    .search-and-browse .search {
+        max-width: 400px;
+        margin: 0 auto 20px;
+    }
+    .search-and-browse .search .search-fild {
+        padding: 16px 115px 16px 16px;
+    }
+    .search-and-browse .search .search-fild::placeholder {
+        font-size: 14px;
+    }
+    .search-and-browse .search .btn {
+        font-size: 15px;
+        padding: 10px 25px;
+        top: 7px;
+        right: 7px;
+    }
+    .search-and-browse .search-list .btn-light {
+        font-size: 14px;
+        line-height: 15px;
+        margin: 0;
+        padding: 10px 10px;
+    }
+
+    /* Delta Life's CSS */
+    .delta-life .delta-life-contant {
+        margin-top: 15px;
+    }
+
+    /* Youtube Videos CSS */
+    .youtube-videos {
+        padding: 80px 0;
+    }
+    .modal.youtube-video .close-video {
+        font-size: 18px;
+        height: 35px;
+        width: 35px;
+    }
+
+    /* Recent Google Reviews CSS */
+    .recent-google-reviews {
+        padding: 80px 0;
+    }
+
+    /* Footer CSS */
+    .footer .footer-contant {
+        margin-bottom: 30px;
+    }
+    .footer .footer-menu .footer-header {
+        margin-bottom: 12px;
+    }
+    .footer .footer-menu ul li a {
+        margin-bottom: 8px;
+    }
+    .footer .subscribe-form-wrap {
+        margin-top: 12px;
+    }
+
+}
+
+
+@media only screen and (max-width: 576px) {
+
+    /* Comman CSS */
+    .header-sec h4 {
+        font-size: 26px;
+        line-height: 36px;
+    }
+
+    /* hiro section css */
+    .hiro {
+        height: 600px;
+        display: flex;
+        align-items: center;
+    }
+    .hiro .hiro-contant h2 {
+        font-size: 38px;
+        line-height: 55px;
+    }
+    .hiro .hiro-contant p {
+        font-size: 16px;
+    }
+    .hiro .btn-light {
+        font-size: 16px;
+        line-height: 20px;
+        padding: 10px 32px;
+    }
+
+    /* Featured Items CSS */
+    .featured-items {
+        padding: 80px 0;
+    }
+    .featured-items .header-sec {
+        margin-bottom: 30px;
+    }
+    .featured-items .header-sec .btn-lightsuccess {
+        padding: 12px 20px;
+    }
+    .featured-items .featured-items-tabs .nav-tabs {
+        margin-bottom: 30px;
+    }
+    .featured-items .featured-items-tabs .nav-tabs .nav-link {
+        padding: 5px 0;
+        margin-bottom: 5px;
+    }
+
+    /* New Items CSS */
+    .newItems .header-sec {
+        margin-bottom: 30px;
+    }
+
+    /* Search and browse CSS */
+    .search-and-browse .search-list .btn-light {
+        margin: 5px;
+    }
+
+    /* Delta Life's CSS */
+    .delta-life .delta-life-contant h2 {
+        font-size: 25px;
+        line-height: 35px;
+        margin-bottom: 15px;
+    }
+    .delta-life .delta-life-contant p {
+        margin-bottom: 15px;
+    }
+    .delta-life .delta-life-contant .btn-lightsuccess {
+        padding: 10px 26px;
+    }
+
+    /* Youtube Videos CSS */
+    .youtube-videos {
+        padding: 70px 0;
+    }
+    .youtube-videos .header-sec {
+        margin-bottom: 30px;
+    }
+
+    /* Recent Google Reviews CSS */
+    .recent-google-reviews .header-sec {
+        margin-bottom: 30px;
+    }
+    .recent-google-reviews .google-review {
+        padding: 20px 30px;
+    }
+    .recent-google-reviews .google-review .person .person-img {
+        width: unset;
+        margin-right: 10px;
+    }
+    .recent-google-reviews .google-review .person .person-details h6 {
+        font-size: 16px;
+        line-height: 20px;
+        margin-bottom: 3px;
+    }
+    .recent-google-reviews .google-review .person .person-details .reviews img {
+        width: unset;
+    }
+    .recent-google-reviews .google-review .person .google-icon {
+        width: unset;
+    }
+
+    /* Footer CSS */
+    .footer .footer-contant p {
+        max-width: 275px;
+        margin: 0 auto;
+    }    
+
+}
+
+@media only screen and (max-width: 480px) {
+
+    /* Header section css */
+    .header .logo-section {
+        text-align: start;
+    }
+    .header .logo-section img {
+        width: 145px;
+    }
+    .header .navbar .navbar-toggler {
+        margin-top: -85px;
+    }
+
+    /* hiro section css */
+    .hiro {
+        height: 500px;
+    }
+
+    /* Featured Items CSS */
+    .featured-items .header-sec {
+        display: block;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .featured-items .header-sec h4 {
+        margin-bottom: 18px;
+    }
+    .featured-items .featured-items-tabs .nav-tabs {
+        justify-content: center;
+    }
+
+    /* We are leaders CSS */
+    .we-are-leaders .we-are-leaders-contant {
+        margin-top: 20px;
+    }
+    .we-are-leaders .we-are-leaders-contant h2 {
+        font-size: 28px;
+        line-height: 34px;
+        margin-bottom: 12px;
+    }
+
+    /* New Items CSS */
+    .newItems .header-sec {
+        margin-bottom: 20px;
+    }
+
+    /* Search and browse CSS */
+    .search-and-browse .search-and-browse-wrap h4 {
+        font-size: 20px;
+        line-height: 32px;
+    }
+    .search-and-browse .search .search-fild {
+        padding: 14px 105px 14px 14px;
+    }
+    .search-and-browse .search .btn {
+        padding: 8px 20px;
+    }
+    .search-and-browse .search-list .btn-light {
+        margin: 2px;
+    }
+    .search-and-browse .search {
+        max-width: 280px;
+    }
+
+    /* Delta Life's CSS */
+    .delta-life .delta-life-contant h2 {
+        font-size: 20px;
+        line-height: 28px;
+        margin-bottom: 10px;
+    }
+    .delta-life .delta-life-contant p {
+        font-size: 14px;
+        line-height: 24px;
+        margin-bottom: 10px;
+    }
+
+    /* Youtube Videos CSS */
+    .youtube-videos .header-sec {
+        margin-bottom: 20px;
+    }
+
+    /* Recent Google Reviews CSS */
+    .recent-google-reviews .header-sec {
+        margin-bottom: 20px;
+    }
+
+    /* Recent Google Reviews CSS */
+    .recent-google-reviews .google-review {
+        padding: 15px 20px;
+    }
+
+}
+
+@media only screen and (max-width: 400px) {
+
+    /* hiro section css */
+    .hiro .hiro-contant h2 {
+        font-size: 30px;
+        line-height: 45px;
+        margin-bottom: 25px;
+    }
+    .hiro .hiro-contant p {
+        font-size: 14px;
+        line-height: 31px;
+        margin-bottom: 30px;
+    }
+
+}

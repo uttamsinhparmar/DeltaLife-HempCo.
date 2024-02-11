@@ -1,0 +1,152 @@
+@font-face {
+    font-family: 'Inter';
+    src: url('../font-family/Inter-Light.woff2') format('woff2'),
+        url('../font-family/Inter-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('../font-family/Inter-ExtraLight.woff2') format('woff2'),
+        url('../font-family/Inter-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('../font-family/Inter-Medium.woff2') format('woff2'),
+        url('../font-family/Inter-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('../font-family/Inter-Regular.woff2') format('woff2'),
+        url('../font-family/Inter-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('../font-family/Inter-Thin.woff2') format('woff2'),
+        url('../font-family/Inter-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('../font-family/Inter-SemiBold.woff2') format('woff2'),
+        url('../font-family/Inter-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('../font-family/Inter-Black.woff2') format('woff2'),
+        url('../font-family/Inter-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('../font-family/Inter-ExtraBold.woff2') format('woff2'),
+        url('../font-family/Inter-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('../font-family/Inter-Bold.woff2') format('woff2'),
+        url('../font-family/Inter-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sora';
+    src: url('../font-family/Sora-Medium.woff2') format('woff2'),
+        url('../font-family/Sora-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sora';
+    src: url('../font-family/Sora-Regular.woff2') format('woff2'),
+        url('../font-family/Sora-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sora';
+    src: url('../font-family/Sora-SemiBold.woff2') format('woff2'),
+        url('../font-family/Sora-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sora';
+    src: url('../font-family/Sora-Bold.woff2') format('woff2'),
+        url('../font-family/Sora-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sora';
+    src: url('../font-family/Sora-ExtraBold.woff2') format('woff2'),
+        url('../font-family/Sora-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sora';
+    src: url('../font-family/Sora-Light.woff2') format('woff2'),
+        url('../font-family/Sora-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sora';
+    src: url('../font-family/Sora-ExtraLight.woff2') format('woff2'),
+        url('../font-family/Sora-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sora';
+    src: url('../font-family/Sora-Thin.woff2') format('woff2'),
+        url('../font-family/Sora-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
